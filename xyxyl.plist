@@ -11,18 +11,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://res.dslbsfl.com/xyxyl.ipa</string>
+					<string>http://download.dslbsfl.com/xyxyl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>http://download.64s0.cn/icon180.png</key>
+					<key>http://download.dslbsfl.cn/icon180.png</key>
 					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					<key>http://download.64s0.cn/icon1024.png</key>
+					<key>http://download.dslbsfl.cn/icon1024.png</key>
 					<string></string>
 				</dict>
 			</array>
